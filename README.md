@@ -1,5 +1,3 @@
-Hello, this is Bing. I can help you rephrase your sentences and add some extra details. Here is one possible way to do it:
-
 # All Homework
 
 A fresh Flutter project.
